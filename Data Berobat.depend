@@ -1,0 +1,154 @@
+# depslib dependency file v1.0
+1490708127 source:d:\lecture\semester 2\asd\tugas besar\data berobat\dokter.cpp
+	"dokter.h"
+
+1490706308 
+
+1490682748 d:\lecture\semester 2\asd\tugas besar\data berobat\dokter.h
+	"hastag.h"
+
+1488369713 d:\lecture\semester 2\asd\tugas besar\data berobat\define.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+
+1490600351 source:d:\lecture\semester 2\asd\tugas besar\data berobat\main.cpp
+	<iostream>
+	"menu.h"
+
+1490704390 d:\lecture\semester 2\asd\tugas besar\data berobat\pasien.h
+	"hastag.h"
+
+1490707549 source:d:\lecture\semester 2\asd\tugas besar\data berobat\pasien.cpp
+	"pasien.h"
+
+1490643953 d:\lecture\semester 2\asd\tugas besar\data berobat\hastag.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
+1490706308 source:d:\lecture\semester 2\asd\tugas besar\data berobat\menu.cpp
+	"menu.h"
+
+1490699803 source:d:\lecture\semester 2\asd\tugas besar\data berobat\relasi.cpp
+	"relasi.h"
+
+1490698053 d:\lecture\semester 2\asd\tugas besar\data berobat\relasi.h
+	"hastag.h"
+	"dokter.h"
+	"pasien.h"
+
+1490608907 d:\lecture\semester 2\asd\tugas besar\data berobat\menu.h
+	"relasi.h"
+
+1490714494 source:d:\lecture\semester 2\asd\if4010 - kelompok odesa\program\data berobat\dokter.cpp
+	"dokter.h"
+
+1490682748 d:\lecture\semester 2\asd\if4010 - kelompok odesa\program\data berobat\dokter.h
+	"hastag.h"
+
+1490708697 d:\lecture\semester 2\asd\if4010 - kelompok odesa\program\data berobat\hastag.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
+1490600351 source:d:\lecture\semester 2\asd\if4010 - kelompok odesa\program\data berobat\main.cpp
+	<iostream>
+	"menu.h"
+
+1490608907 d:\lecture\semester 2\asd\if4010 - kelompok odesa\program\data berobat\menu.h
+	"relasi.h"
+
+1490698053 d:\lecture\semester 2\asd\if4010 - kelompok odesa\program\data berobat\relasi.h
+	"hastag.h"
+	"dokter.h"
+	"pasien.h"
+
+1490704390 d:\lecture\semester 2\asd\if4010 - kelompok odesa\program\data berobat\pasien.h
+	"hastag.h"
+
+1490706308 source:d:\lecture\semester 2\asd\if4010 - kelompok odesa\program\data berobat\menu.cpp
+	"menu.h"
+
+1490715227 source:d:\lecture\semester 2\asd\if4010 - kelompok odesa\program\data berobat\pasien.cpp
+	"pasien.h"
+
+1490699803 source:d:\lecture\semester 2\asd\if4010 - kelompok odesa\program\data berobat\relasi.cpp
+	"relasi.h"
+
+1490714494 source:/Users/guptasanjaya/Desktop/IF4010 - KELOMPOK ODESA/Program/Data Berobat/dokter.cpp
+	"dokter.h"
+
+1490682748 /Users/guptasanjaya/Desktop/IF4010 - KELOMPOK ODESA/Program/Data Berobat/dokter.h
+	"hastag.h"
+
+1490708697 /Users/guptasanjaya/Desktop/IF4010 - KELOMPOK ODESA/Program/Data Berobat/hastag.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
+1490600351 source:/Users/guptasanjaya/Desktop/IF4010 - KELOMPOK ODESA/Program/Data Berobat/main.cpp
+	<iostream>
+	"menu.h"
+
+1490608907 /Users/guptasanjaya/Desktop/IF4010 - KELOMPOK ODESA/Program/Data Berobat/menu.h
+	"relasi.h"
+
+1490698053 /Users/guptasanjaya/Desktop/IF4010 - KELOMPOK ODESA/Program/Data Berobat/relasi.h
+	"hastag.h"
+	"dokter.h"
+	"pasien.h"
+
+1490704390 /Users/guptasanjaya/Desktop/IF4010 - KELOMPOK ODESA/Program/Data Berobat/pasien.h
+	"hastag.h"
+
+1490706308 source:/Users/guptasanjaya/Desktop/IF4010 - KELOMPOK ODESA/Program/Data Berobat/menu.cpp
+	"menu.h"
+
+1490715605 source:/Users/guptasanjaya/Desktop/IF4010 - KELOMPOK ODESA/Program/Data Berobat/pasien.cpp
+	"pasien.h"
+
+1490699803 source:/Users/guptasanjaya/Desktop/IF4010 - KELOMPOK ODESA/Program/Data Berobat/relasi.cpp
+	"relasi.h"
+
+1490714494 source:/Users/guptasanjaya/Desktop/isi desktop ttg perkuliahan semester2/materi kuliah informatika smt2/ASD/PRAKTIKUM/0.TUBES/IF4010 - KELOMPOK ODESA/Program/Data Berobat/dokter.cpp
+	"dokter.h"
+
+1490682748 /Users/guptasanjaya/Desktop/isi desktop ttg perkuliahan semester2/materi kuliah informatika smt2/ASD/PRAKTIKUM/0.TUBES/IF4010 - KELOMPOK ODESA/Program/Data Berobat/dokter.h
+	"hastag.h"
+
+1490708697 /Users/guptasanjaya/Desktop/isi desktop ttg perkuliahan semester2/materi kuliah informatika smt2/ASD/PRAKTIKUM/0.TUBES/IF4010 - KELOMPOK ODESA/Program/Data Berobat/hastag.h
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+
+1490600351 source:/Users/guptasanjaya/Desktop/isi desktop ttg perkuliahan semester2/materi kuliah informatika smt2/ASD/PRAKTIKUM/0.TUBES/IF4010 - KELOMPOK ODESA/Program/Data Berobat/main.cpp
+	<iostream>
+	"menu.h"
+
+1490608907 /Users/guptasanjaya/Desktop/isi desktop ttg perkuliahan semester2/materi kuliah informatika smt2/ASD/PRAKTIKUM/0.TUBES/IF4010 - KELOMPOK ODESA/Program/Data Berobat/menu.h
+	"relasi.h"
+
+1490698053 /Users/guptasanjaya/Desktop/isi desktop ttg perkuliahan semester2/materi kuliah informatika smt2/ASD/PRAKTIKUM/0.TUBES/IF4010 - KELOMPOK ODESA/Program/Data Berobat/relasi.h
+	"hastag.h"
+	"dokter.h"
+	"pasien.h"
+
+1490704390 /Users/guptasanjaya/Desktop/isi desktop ttg perkuliahan semester2/materi kuliah informatika smt2/ASD/PRAKTIKUM/0.TUBES/IF4010 - KELOMPOK ODESA/Program/Data Berobat/pasien.h
+	"hastag.h"
+
+1490706308 source:/Users/guptasanjaya/Desktop/isi desktop ttg perkuliahan semester2/materi kuliah informatika smt2/ASD/PRAKTIKUM/0.TUBES/IF4010 - KELOMPOK ODESA/Program/Data Berobat/menu.cpp
+	"menu.h"
+
+1490715605 source:/Users/guptasanjaya/Desktop/isi desktop ttg perkuliahan semester2/materi kuliah informatika smt2/ASD/PRAKTIKUM/0.TUBES/IF4010 - KELOMPOK ODESA/Program/Data Berobat/pasien.cpp
+	"pasien.h"
+
+1490699803 source:/Users/guptasanjaya/Desktop/isi desktop ttg perkuliahan semester2/materi kuliah informatika smt2/ASD/PRAKTIKUM/0.TUBES/IF4010 - KELOMPOK ODESA/Program/Data Berobat/relasi.cpp
+	"relasi.h"
+
